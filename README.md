@@ -1,5 +1,5 @@
-puppet-java
-===========
+puppet-openjdk
+==============
 
 A puppet module to manage Java OpenJDK instalation.
 
