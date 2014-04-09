@@ -1,0 +1,8 @@
+name    'leonardothibes-openjdk'
+author  'leonardothibes'
+version '1.0.0'
+license 'MIT'
+summary 'A puppet module to manage Java OpenJDK instalation'
+description 'A puppet module to manage Java OpenJDK instalation'
+source 'git://github.com/leonardothibes/puppet-openjdk.git'
+project_page 'http://github.com/leonardothibes/puppet-openjdk'
