@@ -1,4 +1,4 @@
-class openjdk
+class openjdk inherits openjdk::params
 {
     if $osfamily != 'Debian' {
         fail("Unsupported platform: ${osfamily}/${operatingsystem}")
